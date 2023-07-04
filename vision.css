@@ -1,0 +1,40 @@
+   nav ul li a {
+    color: white;
+   } 
+
+   .vision {
+    display: flex;
+    background: url(./hero_startframe__k6x4mt11vf2u_medium.jpg) no-repeat center/cover;
+    height: 800px;
+   }
+
+   .vision h2 {
+    flex: 1;
+    color: white;
+    margin-left: 200px;
+    margin-top: 20px;
+   }
+
+   .vision button {
+    width: 90px;
+    height: 30px;
+    margin-right: 200px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: none;
+    transform: translateX(550px);
+   }
+
+   .vision h4 {
+    font-size: 30px;
+    transform: translateX(-200px) translateY(480px);
+    color: gray;
+   }
+
+   .vision h1 {
+    transform: translatey(550px) translateX(-470px);
+    font-size: 70px;
+    color: white;
+   }
+
+   

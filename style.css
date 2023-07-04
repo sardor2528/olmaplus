@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+:root {
+    --bg: #320d0d;
+    --rang: red;
+    --size: 50px;
+    --shadow: 0 0 15px #0002;
+}
+
+.title {
+    font-size: var(--size);
+    box-shadow: var(--shadow);
+}
+
+.navbar {
+    width: 100%;
+    height: 60px;
+    background-color: var(--bg);
+    display: flex;
+    padding: 0 15%;
+    align-items: center;
+    justify-content: space-between;
+    color: #ddd;
+}
+
+.nav__collection {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+.nav__item a {
+    color: #ddd;
+    text-decoration: none;
+}
+
+.active a {
+    text-decoration: underline;
+    color: gold;
+}
+
+.btn {
+    padding: 8px 30px;
+    background-color: var(--bg);
+    color: var(--rang);
+}
+
+
+.banner {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff9;
+    font-size: 7vw;
+}
+
+.home {
+    background: url(./IMG_20220618_202511_139.jpg) no-repeat center/cover;
+}
+
+.about {
+    background: url(./IMG_20220618_202446_887.jpg) no-repeat center/cover;
+}
+
+.blog {
+    background: url(./IMG_20220618_202519_288.jpg) no-repeat center/cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

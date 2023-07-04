@@ -1,0 +1,67 @@
+nav ul li a {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.photos {
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo1 {
+    overflow: hidden;
+}
+
+.photo1 img {
+    width: 760px;
+    margin-left: -300px;
+}
+
+.photo3 {
+    overflow: hidden;
+}
+
+.photo3 img {
+    width: 760px;
+    margin-right: -300px;
+}
+
+.photo2 h4, h1 {
+    color: white;
+
+}
+
+.photo2 h4 {
+    padding-top: 100px;
+}
+
+.photo2 span {
+    color: dodgerblue;
+    text-align: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

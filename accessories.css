@@ -1,0 +1,68 @@
+.option {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 230px;
+    border-bottom: 1px solid gray;
+}
+
+.option h3 {
+    font-size: 25px;
+}
+
+.option h2 {
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 5px;
+}
+
+.iphone {
+    height: 450px;
+    overflow: hidden;
+    background-color: rgba(203, 199, 199, 0.183);
+}
+
+.iphone h1, h4 {
+    display: inline-block;
+    text-align: left;
+    margin-left: 200px;
+}
+
+.iphone .three {
+    margin-left: 200px;
+}
+
+.search {
+    margin: auto;
+    border: 1px solid gray;
+    width: 570px;
+    height: 65px;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+    color: gray;
+    border-radius: 10px;
+}
+
+.search input {
+    padding: 10px 5px;
+    font-size: 20px;
+    border: none;
+    width: 95%;
+    margin-bottom: 100px;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
